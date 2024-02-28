@@ -2,7 +2,7 @@
  * 1. var let const 
  * 2. defult paremiter
  * 3. template string
- * 4. arrow function
+ * 4. arrow function (এটা প্রচুর ব্যবহার করতে হবে)
  * 5. destructuring and spread operator
  * 6.Object.keys, Object.values Object.entries
  * 7. for of used in array and string
